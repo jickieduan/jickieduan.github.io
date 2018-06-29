@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://jickieduan.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jun 2018 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="http://jickieduan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://jickieduan.github.io/post/first/</link>
+      <pubDate>Fri, 29 Jun 2018 10:07:47 +0800</pubDate>
+      
+      <guid>http://jickieduan.github.io/post/first/</guid>
+      <description>这是我的第一个网站 测试</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jickieduan.github.io/about/</link>
+      <pubDate>Fri, 29 Jun 2018 10:07:21 +0800</pubDate>
+      
+      <guid>http://jickieduan.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
